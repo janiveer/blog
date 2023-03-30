@@ -2,6 +2,7 @@ title: March in Janiveer
 description: Janiveer in March I fear
 theme: minima
 show_excerpts: true
+url: https://janiveer.github.io/blog
 minima:
   social_links:
     - { platform: microdotblog,   user_url: "https://micro.blog/simonjabadaw" }
